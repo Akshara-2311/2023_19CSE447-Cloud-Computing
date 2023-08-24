@@ -29,7 +29,7 @@
 |:----:|:-----------:|:-----:|:------:|
 |   1  |   CCE       | Vakati Charan <br/> Sahithi <br/>  |  |
 |   2  |   CCE       | Dinesh <br/> Mohan V <br/> Sanjay S <br/> Tamilarasu M | | 
-|   3  |   CCE       | KR Abishekraswanth <br/> Akshara R <br/> Narendran S <br/> Pabbathi Greeshma | | 
+|   3  |   CCE       | KR Abishekraswanth <br/> Akshara R <br/> Narendran S <br/> Pabbathi Greeshma | IoT integration with cloud| 
 |   4  |   CCE       | Sivashankar S <br/>  Thejash Kumar T K | Exploring The Elastic Compute Cloud |
 
 ### ECE
